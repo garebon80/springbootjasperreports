@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jasper
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: grebon
+Implementation-Vendor-Id: com.springboot
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jasper
+Created-By: Maven Integration for Eclipse
+
